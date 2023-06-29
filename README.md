@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalihoo
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java/js
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python/js
 
 
 <!---
